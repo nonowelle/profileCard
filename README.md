@@ -1,4 +1,5 @@
 # Frontend Mentor - Profile card component
+## Design Goal
 <img src="./styles/design/desktop-design.jpg" width="600"/>
 <img src="./styles/design/mobile-design.jpg"/>
 
